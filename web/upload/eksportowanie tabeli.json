@@ -1,0 +1,132 @@
+{
+    "0": {
+        "col_0": "1",
+        "col_1": "2",
+        "col_2": "asdasd",
+        "col_3": "sdfsdf",
+        "col_4": "123",
+        "col_5": "0",
+        "col_6": "",
+        "col_7": ""
+    },
+    "1": {
+        "col_0": "2",
+        "col_1": "7",
+        "col_2": "asd",
+        "col_3": "asda",
+        "col_4": "12",
+        "col_5": "12",
+        "col_6": "12-122",
+        "col_7": "asdads2"
+    },
+    "2": {
+        "col_0": "3",
+        "col_1": "8",
+        "col_2": "asd",
+        "col_3": "asd",
+        "col_4": "12",
+        "col_5": "12",
+        "col_6": "asdada",
+        "col_7": "asdasdas"
+    },
+    "3": {
+        "col_0": "4",
+        "col_1": "9",
+        "col_2": "asda",
+        "col_3": "asdad",
+        "col_4": "12",
+        "col_5": "12",
+        "col_6": "",
+        "col_7": ""
+    },
+    "4": {
+        "col_0": "5",
+        "col_1": "10",
+        "col_2": "asdad",
+        "col_3": "sadasd",
+        "col_4": "12",
+        "col_5": "12",
+        "col_6": "12-111",
+        "col_7": "asdas"
+    },
+    "5": {
+        "col_0": "6",
+        "col_1": "11",
+        "col_2": "qwer",
+        "col_3": "qwer",
+        "col_4": "12",
+        "col_5": "12",
+        "col_6": "",
+        "col_7": ""
+    },
+    "6": {
+        "col_0": "7",
+        "col_1": "12",
+        "col_2": "qwer",
+        "col_3": "qwer",
+        "col_4": "12",
+        "col_5": "12",
+        "col_6": "12-122",
+        "col_7": "1asdas"
+    },
+    "7": {
+        "col_0": "8",
+        "col_1": "13",
+        "col_2": "sadsadsadsadsadsadsadsadsadsadsadsadsadsadsadsadsadsadsadsad",
+        "col_3": "",
+        "col_4": "2147483647",
+        "col_5": "12",
+        "col_6": "",
+        "col_7": ""
+    },
+    "8": {
+        "col_0": "9",
+        "col_1": "14",
+        "col_2": "asd",
+        "col_3": "",
+        "col_4": "(brak wartości)",
+        "col_5": "(brak wartości)",
+        "col_6": "",
+        "col_7": ""
+    },
+    "9": {
+        "col_0": "10",
+        "col_1": "15",
+        "col_2": "Restauracja1",
+        "col_3": "Wyspianskiego",
+        "col_4": "12",
+        "col_5": "(brak wartości)",
+        "col_6": "",
+        "col_7": ""
+    },
+    "10": {
+        "col_0": "11",
+        "col_1": "16",
+        "col_2": "qwer",
+        "col_3": "asad",
+        "col_4": "12",
+        "col_5": "(brak wartości)",
+        "col_6": "",
+        "col_7": ""
+    },
+    "11": {
+        "col_0": "12",
+        "col_1": "17",
+        "col_2": "asd",
+        "col_3": "sada",
+        "col_4": "12",
+        "col_5": "(brak wartości)",
+        "col_6": "",
+        "col_7": ""
+    },
+    "12": {
+        "col_0": "13",
+        "col_1": "18",
+        "col_2": "asd",
+        "col_3": "asd",
+        "col_4": "12",
+        "col_5": "12",
+        "col_6": "12-222",
+        "col_7": "asda"
+    }
+}
